@@ -4,9 +4,9 @@
 ## Description: 
 #### This program is a program that calculates the hypotenuse of a right triangle 'pow()" and "sqrt()' from the math library.
 ## Input Needed
-###Enter the following values:
-####•a
-####•b
+### Enter the following values:
+#### •a
+#### •b
 ## Sample Output
 #### Inputed Value:
 #### a = 7
