@@ -1,9 +1,9 @@
-#=======================================================================================================================
+#============================================================================
 #Programmer: Nathalie Kate B. Subido
 #Section: 8-Sampaguita
 #Purpose: Aral mode for August 20, 2026
 #Description: This program is a program that calculates the hypotenuse of a right triangle using functions from the math library.
-#=======================================================================================================================
+#============================================================================
 
 #Importing math library
 import math
